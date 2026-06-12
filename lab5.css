@@ -1,0 +1,15 @@
+h1 { color: navy; }
+
+p { color: blue; }
+
+#main-title { text-decoration: underline; }
+
+.highlight { background-color: yellow; font-style: italic; }
+
+img { border: 2px solid black; width: 200px; }
+
+ul li { color: green; }
+
+a:hover { color: red; }
+
+p::first-letter { font-size: 24px; color: green; }
